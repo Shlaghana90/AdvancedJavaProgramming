@@ -1,0 +1,5 @@
+CREATE TABLE coffee (
+    id INT PRIMARY KEY,
+    coffee_name VARCHAR(50),
+    price DECIMAL(10,2)
+);
