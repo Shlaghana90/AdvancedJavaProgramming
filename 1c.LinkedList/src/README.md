@@ -2,4 +2,4 @@
 [1c.2]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/1c.LinkedList/src/Lr2.png)
 [1c.3]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/1c.LinkedList/src/Lr3.png)
 [1c.4]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/1c.LinkedList/src/Lr4.png)
-[1c.5]->()
+[1c.5]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/1c.LinkedList/src/Lr5.png)
