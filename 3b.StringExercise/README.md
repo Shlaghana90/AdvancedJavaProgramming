@@ -1,4 +1,4 @@
-[3a.1]->()
+[3a.1]->https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3b.StringExercise/ex1.png()
 [3a.2]->()
 [3a.3]->()
 [3a.4]->()
