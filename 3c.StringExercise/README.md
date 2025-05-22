@@ -1,4 +1,4 @@
-[3c.1]->()
+[3c.1]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3c.StringExercise/ex6.png)
 [3c.2]->()
 [3c.3]->()
 [3c.4]->()
