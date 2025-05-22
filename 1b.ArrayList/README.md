@@ -1,5 +1,5 @@
 [1b.1]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/1b.ArrayList/src/Ar1.png)
 [lb.2]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/1b.ArrayList/src/Ar2.png)
-[1b.3]->()
+[1b.3]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/1b.ArrayList/src/Ar3.png)
 [1b.4]->()
 [1b.5]->()
