@@ -1,5 +1,5 @@
 [3c.1]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3c.StringExercise/ex6.png)
 [3c.2]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3c.StringExercise/ex7.png)
-[3c.3]->()
+[3c.3]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3c.StringExercise/ex8.png)
 [3c.4]->()
 [3c.5]->()
