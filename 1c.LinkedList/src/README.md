@@ -1,4 +1,4 @@
-[1c.1]->()
+[1c.1]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/1c.LinkedList/src/Lr1.png)
 [1c.2]->()
 [1c.3]->()
 [1c.4]->()
