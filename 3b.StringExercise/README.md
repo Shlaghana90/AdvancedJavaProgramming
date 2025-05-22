@@ -2,4 +2,4 @@
 [3b.2]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3b.StringExercise/ex2.png)
 [3a.3]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3b.StringExercise/ex3.png)
 [3b.4]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3b.StringExercise/ex4.png)
-[3b.5]->()
+[3b.5]->(https://github.com/Shlaghana90/AdvancedJavaProgramming/blob/main/3b.StringExercise/ex5.png)
